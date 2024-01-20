@@ -4,15 +4,13 @@ Total valid and unique responses: 38
 
 ## Methods
 
-Qualitative: 32
-Quantitative: 12
-Computational: 6
-
-Qualitative and Quantitative: 7
-Qualitative and Computational: 3
-Quantitative and Computational: 5
-
-All: 2
+	- Qualitative: 32
+	- Quantitative: 12
+	- Computational: 6
+	- Qualitative and Quantitative: 7
+	- Qualitative and Computational: 3
+	- Quantitative and Computational: 5
+	- All: 2
 
 ## Software
 
