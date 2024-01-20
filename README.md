@@ -2,8 +2,6 @@
 
 Total valid and unique responses: 38 from SSS and 10 from CCC or HS.
 
-Unless otherwise noted, the following analysis does not include the 10 responses from CCC or HS.
-
 ## Methods
 
 ### Breakdown by method group
