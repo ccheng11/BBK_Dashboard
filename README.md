@@ -15,7 +15,8 @@ Total valid and unique responses: 38
  - Qualitative and Quantitative: 7
  - Qualitative and Computational: 3
  - Quantitative and Computational: 5
- - All: 2
+ - Quantitative or Computational: 13
+ - Computational, Qualitative and Quantitative: 2
 
 ## Software
 
