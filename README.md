@@ -20,7 +20,7 @@ Total valid and unique responses: 38 from SSS and 10 from CCC or HS.
 |Qualitative and Computational        |   3|      2|
 |Quant and Computational              |   5|      1|
 |Quant or Computational               |  13|      5|
-|Computational, Qualitative and Quant |   2|      1|2
+|Computational, Qualitative and Quant |   2|      1|
 
 ## Software
 
