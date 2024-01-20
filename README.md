@@ -6,7 +6,7 @@ Unless otherwise noted, the following analysis does not include the 10 responses
 
 ## Methods
 
-### Breakdown by each method group
+### Breakdown by method group
 
 |              | SSS| CCC/HS|
 |:-------------|---:|------:|
@@ -14,7 +14,7 @@ Unless otherwise noted, the following analysis does not include the 10 responses
 |Quantitative  |  12|      4|
 |Computational |   6|      2|
 
-### Mixed methods
+### Breakdown by comibation
 
 |                                     | SSS| CCC/HS|
 |:------------------------------------|---:|------:|
