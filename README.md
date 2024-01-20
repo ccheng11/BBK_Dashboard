@@ -10,7 +10,7 @@ Total valid and unique responses: 38
  - Quantitative: 12
  - Computational: 6
 
-### Mixed Methods
+### Mixed methods
 
  - Qualitative and Quantitative: 7
  - Qualitative and Computational: 3
