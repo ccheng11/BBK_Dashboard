@@ -8,7 +8,7 @@ Total valid and unique responses: 38 from SSS and 10 from CCC or HS.
 
 |              | SSS| CCC/HS|
 |:-------------|---:|------:|
-|Qualitative   |  32|     10|
+|Qualitative   |  33|     10|
 |Quantitative  |  12|      4|
 |Computational |   6|      2|
 
