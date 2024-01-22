@@ -1,4 +1,7 @@
-# Chinese Politics in Comparative Perspective (Spring 2024)
+# Chinese Politics in Comparative Perspective 
+
+Dr Chao-Yo Cheng
+Spring 2024
 
 ## Background Readings
 
@@ -182,13 +185,13 @@ Zuo, Cai (Vera), Zhongyuan Wang, and Qingjie Zeng. 2023. "From Poverty to Trust:
 
 **[Core]** Carlson, Allen, Mary E. Gallagher, Kenneth Lieberthal, and Melanie Manion. 2010. *Contemporary Chinese Politics: New Sources, Methods, and Field Strategies*. New York, NY: Cambridge University Press. **Skim Table of Contents and Introduction.**
 
-**[Core]** Pepinsky, Thomas B. 2019. "The Return of the Single-Country Study." *Annual Review of Political Science 22*: 187-203.
-
 Franziska, Keller Barbara. 2016. "Moving Beyond Factions: Using Social Network Analysis to Uncover Patronage Networks Among Chinese Elites." *Journal of East Asian Studies 16*(1), 17-41.
 
 King, Gary, Jennifer Pan, and Margaret E. Roberts. 2013. "How Censorship in China Allows Government Criticism but Silences Collective Expression." *American Political Science Review 107*(2): 326-343.
 
 Krcmaric, Daniel, Stephen C. Nelson, and Andrew Roberts. 2019. "Studying Leaders and Elites: The Personal Biography Approach." *Annual Review of Political Science 23*: 133-151.
+
+Pepinsky, Thomas B. 2019. "The Return of the Single-Country Study." *Annual Review of Political Science 22*: 187-203.
 
 ## Contact Information
 
