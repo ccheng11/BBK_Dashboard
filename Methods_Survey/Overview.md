@@ -12,7 +12,7 @@ Total valid and unique responses: 38 from SSS and 10 from CCC or HS.
 |Quantitative  |  12|      4|
 |Computational |   6|      2|
 
-### Breakdown by comibation
+### Breakdown by combination
 
 |                                     | SSS| CCC/HS|
 |:------------------------------------|---:|------:|
