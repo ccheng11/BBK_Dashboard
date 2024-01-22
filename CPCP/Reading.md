@@ -1,6 +1,6 @@
 # Chinese Politics in Comparative Perspective 
 
-Dr Chao-Yo Cheng
+Dr Chao-Yo Cheng\
 Spring 2024
 
 ## Background Readings
