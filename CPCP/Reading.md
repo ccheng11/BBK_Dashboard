@@ -79,7 +79,7 @@ Shih, Victor, Christopher Adolph, and Mingxing Liu. 2012. "Getting Ahead in the 
 
 ## Week 5: Central-local relations and local governance
 
-**Seminar**: Decentralization, policy experiments and market reform
+**Seminar**: Local policy experiments and market reform
 
 **[Core]** Zheng, Yongnian. 2008. *De Facto Federalism in China*. Singapore: World Scientific. **Read Chapter 1.**
 
@@ -133,7 +133,7 @@ Wang, Zhengxu, and Long Sun. 2017. "Social Class and Voter Turnout in China: Loc
 
 ## Week 8: Social protection and (re)distributive politics
 
-**Discussion**: Selectorate theory and distributive politics.
+**Seminar**: Selectorate theory and distributive politics
 
 **[Core]** Huang, Xian. 2020. *Social Protection under Authoritarianism: Health Politics and Policy in China*. New York, NY: Oxford University Press. **Read Chapter 1.**
 
