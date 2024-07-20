@@ -13,7 +13,7 @@ Naughton, Barry J. 2018. *The Chinese Economy* (2nd Edition). Cambridge, MA: The
 
 Spence, Jonathan D. 2012. *The Search for Modern China* (3rd Edition). New York, NY: W. W. Norton.
 
-## Week 1: State of the Field
+## Week 1: State of the field
 
 **Seminar**: Placing China in comparative perspective
 
@@ -167,7 +167,7 @@ Krcmaric, Daniel, Stephen C. Nelson, and Andrew Roberts. 2019. "Studying Leaders
 
 Pepinsky, Thomas B. 2019. "The Return of the Single-Country Study." *Annual Review of Political Science 22*: 187-203.
 
-## Contact Information
+## Contact information
 
 If you have any questions, please email [c.cheng[at]bbk.ac.uk](mailto:c.cheng@bbk.ac.uk).
 
