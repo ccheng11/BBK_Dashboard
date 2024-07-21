@@ -15,7 +15,7 @@ Spence, Jonathan D. 2012. *The Search for Modern China* (3rd Edition). New York,
 
 ## Week 1: State of the field
 
-**Seminar**: Placing China in comparative perspective
+**Semina: Placing China in comparative perspective**
 
 **[Core]** Tsai, Lily L. 2017. "Bringing in China: Insights for Building Comparative Political Theory." *Comparative Political Studies 50*(3): 295-328.
 
@@ -35,7 +35,7 @@ White III, Lynn T. 2009. "Chinese Political Studies: Overview of the State of th
 
 ## Week 2: From empire to "nation-state"
 
-**Seminar**: State building in the Global South
+**Seminar: State building in the Global South**
 
 **[Core]** Lieberthal, Kenneth. 2003. *Governing China: From Revolution Through Reform*. New York, NY: W. W. Norton. **Read Chapter 2.** 
 
@@ -49,7 +49,7 @@ Strauss, Julia. 1998. *Strong Institutions in Weak Polities*. Oxford: Clarendon 
 
 ## Week 3: Structures of the Party-state
 
-**Seminar**: Institutions and the resilience of single-party regimes
+**Seminar: Institutions and the resilience of single-party regimes**
 
 **[Core]** Li, Cheng. 2019. "China's Communist Party State: The Structure and Dynamics of Power" in *Politics in China: An Introduction* (3rd ed). William A. Joseph, ed. Oxford: Oxford University Press. **Read pp.201-236.**
 
@@ -65,7 +65,7 @@ Harding, Harry. 1981. *Organizing China: The Problem of Bureaucracy, 1949-1976*.
 
 ## Week 4: Informal politics and factionalism
 
-**Seminar**: Using data to unpack the black box of factional competition
+**Seminar: Using data to unpack the black box of factional competition**
 
 **[Core]** Fewsmith, Joseph. 2021. *Rethinking Chinese Politics*. New York, NY: Cambridge University Press. **Read Introduction and Chapter 2.**
 
@@ -83,7 +83,7 @@ Shih, Victor, Christopher Adolph, and Mingxing Liu. 2012. "Getting Ahead in the 
 
 ## Week 5: Central-local relations and local governance
 
-**Seminar**: Local policy experiments and market reform
+**Seminar: Local policy experiments and market reform**
 
 **[Core]** Zheng, Yongnian. 2008. *De Facto Federalism in China*. Singapore: World Scientific. **Read Chapter 1.**
 
@@ -105,7 +105,7 @@ Teets, Jessica C., and William Hurst. 2017. *Local Governance Innovation in Chin
 
 ## Week 6: Coercion and control
 
-**Seminar**: Digital technologies and political control
+**Seminar: Digital technologies and political control**
 
 **[Core]** Lee, Ching Kwan, and Yonghong Zhang. 2013. "The Power of Instability: Unraveling the Microfoundations of Bargained Authoritarianism in China." *American Journal of Sociology 118*(6): 1475-1508.
 
@@ -123,7 +123,7 @@ Mattingly, Daniel C. 2019. *The Art of Political Control in China*. New York, NY
 
 ## Week 7: Co-optation and representation
 
-**Seminar**: Elections in authoritarian regimes
+**Seminar: Elections in authoritarian regimes**
 
 **[Core]** Mertha, Andrew. 2009. "'Fragmented Authoritarianism 2.0': Political Pluralization in the Chinese Policy Process." *China Quarterly 200*: 995-1012.
 
@@ -139,7 +139,7 @@ Wang, Zhengxu, and Long Sun. 2017. "Social Class and Voter Turnout in China: Loc
 
 ## Week 8: Social protection and (re)distributive politics
 
-**Seminar**: Selectorate theory and distributive politics
+**Seminar: Selectorate theory and distributive politics**
 
 **[Core]** Huang, Xian. 2020. *Social Protection under Authoritarianism: Health Politics and Policy in China*. New York, NY: Oxford University Press. **Read Chapter 1.**
 
@@ -157,7 +157,7 @@ Zuo, Cai (Vera), Zhongyuan Wang, and Qingjie Zeng. 2023. "From Poverty to Trust:
 
 ## Week 9: China as a method
 
-**Seminar**: Decolonizing China studies
+**Seminar: Decolonizing China studies**
 
 **[Core]** Carlson, Allen, Mary E. Gallagher, Kenneth Lieberthal, and Melanie Manion. 2010. *Contemporary Chinese Politics: New Sources, Methods, and Field Strategies*. New York, NY: Cambridge University Press. **Skim Table of Contents and Introduction.**
 
