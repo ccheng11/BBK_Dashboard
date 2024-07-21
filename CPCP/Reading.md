@@ -21,8 +21,6 @@ Spence, Jonathan D. 2012. *The Search for Modern China* (3rd Edition). New York,
 
 **[Core]** Gallagher, Mary, E. 2002. "Why China's Economic Reforms Have Delayed Democracy." *World Politics 54*(3): 338-372. **Read pp.338-346.**
 
-Dickson, Bruce. 2008. *Wealth into Power: The Communist Party’s Embrace of China's Private Sector*. New York, NY: Cambridge University Press. **Read Chapter 1.**
-
 Harding, Harry. 1984 "The Study of Chinese Politics: Toward a Third Generation of Scholarship." *World Politics 36*(2): 284-307.
 
 Perry, Elizabeth J. 1994. "Trends in the Study of Chinese Politics: State-Society Relations." *China Quarterly 139*: 704-713.
@@ -46,6 +44,8 @@ Hill, Emily M. 2022. "War, Disunity, and State Building In China, 1912–1949." 
 Remick, Elizabeth J. 2014. *Building Local States: China During the Republican and Post-Mao Eras*. Cambridge, MA: Harvard University Asia Center.
 
 Strauss, Julia. 1998. *Strong Institutions in Weak Polities*. Oxford: Clarendon Press.
+
+Zhou, Xueguang. 2022. *The Logic of Governance in China: An Organizational Approach*. New York, NY: Cambridge University Press.
 
 ## Week 3: Structures of the Party-state
 
@@ -89,8 +89,6 @@ Shih, Victor, Christopher Adolph, and Mingxing Liu. 2012. "Getting Ahead in the 
 
 **[Core]** Cai, Hongbin, and Daniel Treisman. 2006. "Did Government Decentralization Cause China's Economic Miracle?" *World Politics 58*(4): 505-535.
 
-Chung, Jae Ho. 2016. *Centrifugal Empire: Central-Local Relations in China*. New York, NY: Columbia University Press.
-
 Landry, Pierre F. 2008. *Decentralized Authoritarianism in China: The Communist Party’s Control of Local Elites in the Post-Mao Era*. New York, NY: Cambridge University Press.
 
 Lily L. Tsai. 2007. "Solidary Groups, Informal Accountability, and Local Public Goods Provision in Rural China." *American Political Science Review 101*(2): 355-372.
@@ -100,8 +98,6 @@ Ma, Xiao. 2022. *Localized Bargaining: The Political Economy of China's High-Spe
 Mertha, Andrew. 2005. "China's 'Soft' Centralization: Shifting Tiao/Kuai Authority Relations." *China Quarterly 184*: 791-810.
 
 Shirk, Susan L. 1993. *The Political Logic of Economic Reform in China*. Berkeley, CA: University of California Press.
-
-Teets, Jessica C., and William Hurst. 2017. *Local Governance Innovation in China*. New York, NY: Routledge.
 
 ## Week 6: Coercion and control
 
@@ -130,6 +126,8 @@ Mattingly, Daniel C. 2019. *The Art of Political Control in China*. New York, NY
 **[Core]** Manion, Melanie. 2014. "Authoritarian Parochialism: Local Congressional Representation in China." *China Quarterly 218*: 311-338.
 
 Bernstein, Thomas P. and Xiaobo Lu. 2008. *Taxation without Representation in Contemporary Rural China*. New York, NY: Cambridge University Press.
+
+Dickson, Bruce. 2008. *Wealth into Power: The Communist Party’s Embrace of China's Private Sector*. New York, NY: Cambridge University Press.
 
 Chen, Jidong, Jennifer Pan, and Yiqing Xu. 2016. "Sources of Authoritarian Responsiveness: A Field Experiment in China." *American Journal of Political Science 60*(2): 383-400.
 
@@ -169,4 +167,4 @@ Pepinsky, Thomas B. 2019. "The Return of the Single-Country Study." *Annual Revi
 
 If you have any questions, please email [c.cheng[at]bbk.ac.uk](mailto:c.cheng@bbk.ac.uk).
 
-Date: 21 July 2024
+Date: 22 July 2024
