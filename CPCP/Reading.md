@@ -1,7 +1,7 @@
 # Chinese Politics in Comparative Perspective 
 
 Dr Chao-Yo Cheng\
-Spring 2025
+(Spring 2025)
 
 ## Background Readings
 
@@ -73,6 +73,10 @@ Harding, Harry. 1981. *Organizing China: The Problem of Bureaucracy, 1949-1976*.
 
 Dittmer, Lowell, and Yu-Shan Wu. 1995. "The Modernization of Factionalism in Chinese Politics." *World Politics 47*(4): 467-494.
 
+Franziska, Keller Barbara. 2016. "Moving Beyond Factions: Using Social Network Analysis to Uncover Patronage Networks Among Chinese Elites." *Journal of East Asian Studies 16*(1), 17-41.
+
+Krcmaric, Daniel, Stephen C. Nelson, and Andrew Roberts. 2019. "Studying Leaders and Elites: The Personal Biography Approach." *Annual Review of Political Science 23*: 133-151.
+
 Shih, Victor C. 2022. *Coalitions of the Weak: Elite Politics in China from Mao's Strategem to the Rise of Xi*. New York, NY: Cambridge University Press.
 
 Shih, Victor, Christopher Adolph, and Mingxing Liu. 2012. "Getting Ahead in the Communist Party: Explaining the Advancement of Central Committee Members in China." *American Political Science Review 106*(1): 166-187.
@@ -127,6 +131,8 @@ Mattingly, Daniel C. 2019. *The Art of Political Control in China*. New York, NY
 
 Bernstein, Thomas P. and Xiaobo Lu. 2008. *Taxation without Representation in Contemporary Rural China*. New York, NY: Cambridge University Press.
 
+Chen, Jidong, Jennifer Pan, and Yiqing Xu. 2016. "Sources of Authoritarian Responsiveness: A Field Experiment in China." *American Journal of Political Science 60*(2): 383-400.
+
 Truex, Rory. 2014. "The Returns to Office in a 'Robber Stamp' Parliament." *American Political Science Review 108*(2): 235-251.
 
 Wang, Zhengxu, and Long Sun. 2017. "Social Class and Voter Turnout in China: Local Congress Elections and Citizen-Regime Relations." *Political Research Quarterly 70*(2): 243-256.
@@ -156,14 +162,6 @@ Zuo, Cai (Vera), Zhongyuan Wang, and Qingjie Zeng. 2023. "From Poverty to Trust:
 **[Core]** Carlson, Allen, Mary E. Gallagher, Kenneth Lieberthal, and Melanie Manion. 2010. *Contemporary Chinese Politics: New Sources, Methods, and Field Strategies*. New York, NY: Cambridge University Press. **Skim Table of Contents and Introduction.**
 
 **[Core]** Tam, Gina Anne. 2024. "Introduction: Why 'Decolonizing Chinese History?'" *The Historical Journal 67*: 148–150.
-
-Chen, Jidong, Jennifer Pan, and Yiqing Xu. 2016. "Sources of Authoritarian Responsiveness: A Field Experiment in China." *American Journal of Political Science 60*(2): 383-400.
-
-Franziska, Keller Barbara. 2016. "Moving Beyond Factions: Using Social Network Analysis to Uncover Patronage Networks Among Chinese Elites." *Journal of East Asian Studies 16*(1), 17-41.
-
-King, Gary, Jennifer Pan, and Margaret E. Roberts. 2013. "How Censorship in China Allows Government Criticism but Silences Collective Expression." *American Political Science Review 107*(2): 326-343.
-
-Krcmaric, Daniel, Stephen C. Nelson, and Andrew Roberts. 2019. "Studying Leaders and Elites: The Personal Biography Approach." *Annual Review of Political Science 23*: 133-151.
 
 Pepinsky, Thomas B. 2019. "The Return of the Single-Country Study." *Annual Review of Political Science 22*: 187-203.
 
