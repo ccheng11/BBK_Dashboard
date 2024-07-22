@@ -3,7 +3,7 @@
 Dr Chao-Yo Cheng\
 (Spring 2025)
 
-## Background Readings
+## Background readings
 
 Liberthal, Kenneth. 2004. *Governing China: From Revolution Through Reform* (2nd Edition). New York, NY: W. W. Norton.
 
