@@ -109,13 +109,13 @@ Shirk, Susan L. 1993. *The Political Logic of Economic Reform in China*. Berkele
 
 Beraja, Martin and Andrew Kao, David Yang, and Noam Yuchtman. 2023. "AI-tocracy." *Quarterly Journal of Economics 138*(3): 1349-1402.
 
-Cai, Yongshun. 2008. "Power Structure and Regime Resilience: Contentious Politics in China." *British Journal of Political Science 38*(3): 411-432.
-
 Fu, Diana. 2018. *Mobilizing Without the Masses: Control and Contention in China*. New York: Cambridge University Press.
 
 King, Gary, Jennifer Pan, and Margaret E. Roberts. 2013. "How Censorship in China Allows Government Criticism but Silences Collective Expression." *American Political Science Review 107*(2): 326-343.
 
 Mattingly, Daniel C. 2019. *The Art of Political Control in China*. New York, NY: Cambridge University Press.
+
+Ong, Lynette H. 2018. "Thugs and Outsourcing of State Repression in China." *China Journal 80*: 94-110.
 
 ## Week 7: Co-optation and representation
 
@@ -128,8 +128,6 @@ Mattingly, Daniel C. 2019. *The Art of Political Control in China*. New York, NY
 Bernstein, Thomas P. and Xiaobo Lu. 2008. *Taxation without Representation in Contemporary Rural China*. New York, NY: Cambridge University Press.
 
 Dickson, Bruce. 2008. *Wealth into Power: The Communist Party’s Embrace of China's Private Sector*. New York, NY: Cambridge University Press.
-
-Chen, Jidong, Jennifer Pan, and Yiqing Xu. 2016. "Sources of Authoritarian Responsiveness: A Field Experiment in China." *American Journal of Political Science 60*(2): 383-400.
 
 Truex, Rory. 2014. "The Returns to Office in a 'Robber Stamp' Parliament." *American Political Science Review 108*(2): 235-251.
 
@@ -160,6 +158,8 @@ Zuo, Cai (Vera), Zhongyuan Wang, and Qingjie Zeng. 2023. "From Poverty to Trust:
 **[Core]** Carlson, Allen, Mary E. Gallagher, Kenneth Lieberthal, and Melanie Manion. 2010. *Contemporary Chinese Politics: New Sources, Methods, and Field Strategies*. New York, NY: Cambridge University Press. **Skim Table of Contents and Introduction.**
 
 **[Core]** Tam, Gina Anne. 2024. "Introduction: Why 'Decolonizing Chinese History?'" *The Historical Journal 67*: 148–150.
+
+Chen, Jidong, Jennifer Pan, and Yiqing Xu. 2016. "Sources of Authoritarian Responsiveness: A Field Experiment in China." *American Journal of Political Science 60*(2): 383-400.
 
 Pepinsky, Thomas B. 2019. "The Return of the Single-Country Study." *Annual Review of Political Science 22*: 187-203.
 
