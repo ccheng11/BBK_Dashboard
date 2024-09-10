@@ -8,7 +8,7 @@
 
  - Matt Grossmann, [*How Social Science Got Better*](https://global.oup.com/academic/product/how-social-science-got-better-9780197518977) (2021): A great book to reflect on how social sciences have changed in the past decade
 
- - Thomas Mullaney and Christopher Rea, [*Where Research Begins*](https://press.uchicago.edu/ucp/books/book/chicago/W/bo131341275.html) (2022): A great book to think through your dissertation topic
+ - Thomas Mullaney and Christopher Rea, [*Where Research Begins*](https://press.uchicago.edu/ucp/books/book/chicago/W/bo131341275.html) (2022): A great book to think through your dissertation project
 
  - Christopher A. Bail, "[Can Generative AI Improve Social Science](https://www.pnas.org/doi/full/10.1073/pnas.2314021121)" (2024): A great review article to discuss how AI can transform social research
 
