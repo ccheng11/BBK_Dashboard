@@ -12,7 +12,7 @@
 
 # Elite interviews
 
- - Willis, Rebecca. "Constructing a ‘representative claim' for action on climate change: evidence from interviews with politicians." *Political Studies 66*, no. 4 (2018): 940-958.
+ - Willis, Rebecca. "Constructing a 'representative claim' for action on climate change: evidence from interviews with politicians." *Political Studies 66*, no. 4 (2018): 940-958.
 
  - Slaven, Mike, Sara Casella Colombeau, and Elisabeth Badenhoop. "What drives the immigration-welfare policy link? Comparing Germany, France and the United Kingdom." *Comparative Political Studies 54*, no. 5 (2021): 855-888.
 
@@ -20,7 +20,7 @@
 
  - McGlynn, Catherine, and Shaun McDaid. "Radicalisation and higher education: Students' understanding and experiences." *Terrorism and Political Violence 31*, no. 3 (2019): 559-576.
 
- - Hurrelmann, Achim, Anna Gora, and Andrea Wagner. "The politicization of European integration: More than an elite affair?" *Political Studies 63*, no. 1 (2015): 43-59.
+ - Adler-Nissen, Rebecca, and Kristin Anabel Eggeling. "Blended diplomacy: the entanglement and contestation of digital technologies in everyday diplomatic practice." *European Journal of International Relations 28*, no. 3 (2022): 640–666.
 
 # Comparative case studies
 
@@ -52,4 +52,4 @@
 
  - Foos, Florian, and Daniel Bischof. "Tabloid media campaigns and public opinion: Quasi-experimental evidence on Euroscepticism in England." *American Political Science Review 116*, no. 1 (2022): 19-37.
 
- - Cheeseman, Nic, and Caryn Peiffer. "The curse of good intentions: Why anticorruption messaging can encourage bribery." *American Political Science Review 116*, no. 3 (2022): 1081-1095.
+ - Bhatia, Jasmine and Steve L. Monroe. "Insecurity and support for female leadership in conflict states: evidence from Afghanistan." *British Journal of Political Science 54*, no. 3: 771-792.
